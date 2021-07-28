@@ -5,7 +5,12 @@ Sou formado em Gestão Ambiental e desenvolvedor Full-Stack em treinamento ;) :c
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js
  <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
-<br/> :email: &nbsp; Entre em contato comigo: <br> [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
+<br/> :email: &nbsp; Entre em contato comigo: <br> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
+<a href="mailto:lucas.p.dias@outlook.com">
+   <img alt="Lucas' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/>
 <div  align="center"> 
