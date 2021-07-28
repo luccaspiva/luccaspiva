@@ -7,9 +7,12 @@ Sou formado em Gestão Ambiental e desenvolvedor Full-Stack em treinamento ;) :c
  <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
 <br/> :email: &nbsp; Entre em contato comigo: <br> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
-<a href="mailto:lucas.p.dias@outlook.com">
-   <img alt="Lucas' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/luccaspiva 
+<img alt="Lucas' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
+
+<a href="mailto:lucas.p.dias@outlook.com"> 
+<img alt="Lucas' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
