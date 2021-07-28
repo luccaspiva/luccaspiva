@@ -9,7 +9,7 @@ Sou formado em Gestão Ambiental e desenvolvedor Full-Stack em treinamento ;)
  <br/> 
 
 <a href="https://www.linkedin.com/in/luccaspiva">
-   <img alt="Matheus' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="Lucas' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:lucas.p.dias@outlook.com"> 
