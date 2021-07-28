@@ -1,10 +1,9 @@
 ## Oi, sou o Lucas :wave:
 
- <br/> :purple_heart: &nbsp; Desenvolvedor Full-Stack em treinamento
-
+<br/> :purple_heart: &nbsp; Desenvolvedor Full-Stack em treinamento
 <br/> :blush: &nbsp; Formado em Gestão Ambiental
-
 <br/> :email: &nbsp; Entre em contato comigo: 
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.piva.dias@gmail.com)](mailto:lucas.piva.dias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
 
