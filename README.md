@@ -1,12 +1,10 @@
 ## Oi, sou o Lucas :wave:
-Sou formado em Gestão Ambiental e desenvolvedor Full-Stack em treinamento ;) 
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
- <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js
- <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
- <br/> :email: &nbsp; Entre em contato comigo: 
+ <br/> :purple_heart: &nbsp; Desenvolvedor Full-Stack em treinamento
 
+<br/> :blush: &nbsp; Formado em Gestão Ambiental
+
+<br/> :email: &nbsp; Entre em contato comigo: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.piva.dias@gmail.com)](mailto:lucas.piva.dias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
 
