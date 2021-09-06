@@ -1,7 +1,7 @@
 ## Oi, sou o Lucas :wave:
 
 <br/> :purple_heart: &nbsp; Desenvolvedor Full-Stack em treinamento
-<br/> :blush: &nbsp; Formado em Gestão Ambiental
+<br/> :blush: &nbsp; Formado em Gestão Ambiental e apaixonado por tecnologia <3
 <br/> :email: &nbsp; Entre em contato comigo: 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.piva.dias@gmail.com)](mailto:lucas.piva.dias@gmail.com)
