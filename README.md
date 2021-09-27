@@ -1,6 +1,6 @@
 ## Oi, sou o Lucas :wave:
 
-<br/> :purple_heart: &nbsp; Desenvolvedor Full-Stack em treinamento
+<br/> :purple_heart: &nbsp; Desenvolvedor Web Full Stack
 <br/> :blush: &nbsp; Formado em Gestão Ambiental e apaixonado por tecnologia <3
 <br/> :email: &nbsp; Entre em contato comigo: 
 
