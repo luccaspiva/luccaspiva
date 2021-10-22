@@ -1,12 +1,12 @@
-## Oi, sou o Lucas :wave:
+## Hi there, I'm Lucas! :wave:
 
-<br/> :purple_heart: &nbsp; Desenvolvedor Web Full Stack
-<br/> :blush: &nbsp; Formado em Gestão Ambiental e apaixonado por tecnologia <3
-<br/> :email: &nbsp; Entre em contato comigo: 
-
+<br/> :purple_heart: &nbsp; full stack developer
+<br/> :blush: &nbsp; Graduated in Environmental Management and technology lover <3
+<br/> :blush: &nbsp; I’m currently working on myself
+<br/> :blush: &nbsp; I’m currently learning HTML, CSS, JS & Java
+<br/> :email: &nbsp; How to reach me:  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.piva.dias@gmail.com)](mailto:lucas.piva.dias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
-
 <br/>
 <div  align="center"> 
   <a href="https://github.com/luccaspiva">
