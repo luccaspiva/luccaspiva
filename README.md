@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas! :wave:
 
-<br/> :purple_heart: &nbsp; full stack developer
+<br/> :purple_heart: &nbsp; Full Stack Developer ;)
 <br/> :blush: &nbsp; Graduated in Environmental Management and technology lover <3
 <br/> :blush: &nbsp; I’m currently working on myself
 <br/> :blush: &nbsp; I’m currently learning HTML, CSS, JS & Java
