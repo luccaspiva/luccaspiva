@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas! :wave:
 
-<br/> :purple_heart: &nbsp; Back-end Developer ;)
+<br/>Back-end Developer
 <br/> :email: &nbsp; How to reach me:  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.piva.dias@gmail.com)](mailto:lucas.piva.dias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/)
